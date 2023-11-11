@@ -1,0 +1,6 @@
+/.dockerignore
+/.env
+/.vscode
+/docker-compose.debug.yml
+/docker-compose.yml
+/Dockerfile

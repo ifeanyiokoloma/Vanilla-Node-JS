@@ -1,0 +1,12 @@
+{
+  "name": "backend_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app",
+    "start": "node app"
+  },
+  "author": "Ifeanyi Okoloma",
+  "license": "ISC"
+}
